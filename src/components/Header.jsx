@@ -4,7 +4,7 @@ import { CloseIcon, logo, Menu } from "../assets/svg";
 const mainNav = [
   {
     name: "Home",
-    url: "/",
+    url: "/infilon-project/",
   },
   {
     name: "About us",
